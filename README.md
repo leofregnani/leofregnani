@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leofregnani
 - 👀 I’m interested in Python and Laravel
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently working with Laravel
 - 💞️ I’m looking to collaborate on Python and Laravel
 - 📫 How to reach me leonardo@fregnani.net.br
 
